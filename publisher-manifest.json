@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "072b7c4e043d76c27b4cc838",
+  "owner": "fwsjtymby",
+  "repo": "page-bf031d52804d2a582fbc550d",
+  "title": "腾龙加速器",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bf031d52804d2a582fbc550d",
+      "a": "腾龙加速器",
+      "b": "稳定全球clash加速器",
+      "entity": "腾龙加速器",
+      "brand": "腾龙加速器",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a050dca60e77e3d022ca76dcbbae5d97ee658e83e7118ae6d0ee56be1542e403",
+      "content": {
+        "primary_entity": "腾龙加速器",
+        "keyword1": "腾龙加速器",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，按平台文档导入订阅。",
+          "AI_CLIENTS_TITLE": "设备与客户端",
+          "AI_CLOSING_TEXT": "选好套餐，打开客户端导入订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置腾龙加速器",
+          "AI_DESCRIPTION": "，聚焦跨境访问场景，提供 Clash 订阅配置与多设备客户端支持。套餐按流量与在线设备数划分，基础版适合轻量浏览，旗舰版兼顾流媒体与游戏专线，团队版面向多设备协作。节点覆盖常见海外地区，订阅周期灵活可选月付或年付，按客户端文档导入即可使用。",
+          "AI_FEATURES_INTRO": "从套餐到客户端，给出清晰的选型参考。",
+          "AI_FEATURES_TITLE": "功能与选型要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合手机与电脑日常访问。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备，支持原生流媒体与专线游戏加速。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备，提供高带宽节点与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "套餐选择",
+          "AI_FEATURE_TITLE_2": "设备需求",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成选择与配置。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "腾龙加速器面向跨境访问场景，提供 Clash 订阅配置与多设备客户端支持。套餐按流量与在线设备数划分，月付灵活、年付更省，按客户端文档导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅，灵活选择套餐",
+          "AI_HIGHLIGHT_1": "基础版月付 ¥15，年付 ¥150",
+          "AI_HIGHLIGHT_2": "旗舰版月付 ¥35，年付 ¥350",
+          "AI_HIGHLIGHT_3": "团队版月付 ¥85，年付 ¥850",
+          "AI_PLANS_INTRO": "对比流量、设备数与线路特性，选择适合使用场景的套餐。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐对设备与客户端的要求，确认系统与网络环境满足条件。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅，完成订阅配置后开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "腾龙加速器套餐与客户端",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "腾龙加速器基础版适合哪些用户？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备同时在线，适合日常浏览、轻度流媒体和少量设备使用的个人用户，年付约 ¥150，入门成本较低。",
+          "AI_FAQ_QUESTION_2": "旗舰版相比基础版多了什么？",
+          "AI_FAQ_ANSWER_2": "旗舰版每月流量提升至 300GB，可 5 台设备同时在线，并提供全节点原生流媒体解锁与 IPLC 专线游戏加速优化，适合对稳定性和速度要求更高的用户。",
+          "AI_FAQ_QUESTION_3": "团队版可以多少人使用？",
+          "AI_FAQ_ANSWER_3": "团队版支持 20 台设备同时在线，每月 1000GB 流量，并配备 VIP 专属高带宽节点与企业定制路由，适合小型团队或多设备环境统一订阅。",
+          "AI_FAQ_QUESTION_4": "腾龙加速器支持哪些客户端？",
+          "AI_FAQ_ANSWER_4": "Windows 与 macOS 可参考 Clash Verge、v2rayN 等客户端，iOS 可参考 Shadowrocket、Quantumult X，Android 可参考 v2rayNG、Clash for Android，导入订阅前请确认格式匹配。",
+          "AI_FAQ_QUESTION_5": "按年付比按月付划算吗？",
+          "AI_FAQ_ANSWER_5": "年付方案基础版约 ¥150、旗舰版约 ¥350、团队版约 ¥850，相比按月支付十二个月可节省约两个月费用，适合确定长期使用的用户。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "evhfdgz.cn",
+    "host": "evhfdgz.cn"
+  },
+  "file_hashes": {
+    "index.html": "45167061d531aa200df3965d00330f251af4913f4ce9796bdf1d4d6144aa904a",
+    "sitemap.xml": "27f3aeefa2295afd9b0f165ef4bf3c630050fccd9efc4882e4f79ff189149220",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "935ce9cbe0acbf077d06ad3e0e52fac92a26751fcc1319320fd3daa999adafff",
+    "robots.txt": "af019a3bf46272044c97831dad322f714e2731aa7247e5c754d34d671cea8da5",
+    "1531605dc21615d4838c7b5158ee0ce8.txt": "2424f3f98b080459ab593806e684f62d832a9083fd6795e2b5a57dc5777389d7"
+  },
+  "revision": "f4ff768d404a56784a555cbc46d04eecce505e3e7ab102723912a0da477475c0"
+}
